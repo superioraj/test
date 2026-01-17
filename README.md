@@ -1,2 +1,1 @@
-# test
-repo test 
+안녕하세요. Readme 입니다.
